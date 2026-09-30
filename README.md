@@ -1,4 +1,8 @@
-# Elsewhere: Time Zone Overlap
+<p align="center">
+  <img src="docs/icon.png" width="128" height="128" alt="Elsewhere app icon">
+</p>
+
+<h1 align="center">Elsewhere: Time Zone Overlap</h1>
 
 Elsewhere lives in your menu bar (Mac) or system tray (Windows) and shows what time it is in the cities that matter to you, and when everyone's working hours overlap.
 
